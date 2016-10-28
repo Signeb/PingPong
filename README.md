@@ -20,8 +20,8 @@ The user will then be prompted to submit the number of players in the current ro
 This will (eventually) create x number of input fields or drop-down-lists for users to enter their names.(On a different page)
 Once all names have been entered, users will be redirected to the "Game On" page where a named button will appear for each player.
 
-The first player to get 'Tre prickar' will then go click the button with hens name on it. This will award the player with 1 point.
-The second player to lose will receive 2 points when clicking hens button and so on.
+The first player to get 'Tre prickar' will then go click the button with their name on it. This will award the player with 1 point.
+The second player to lose will receive 2 points when clicking their respective button and so on.
 The winner of the round will recieve 1 point for each player participating plus an additional 2 points for being awesome.
 
 Feel free to pitch in with anything you want.
